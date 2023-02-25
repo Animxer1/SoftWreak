@@ -2,7 +2,7 @@
 
 # Softwreak
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhandelwaldev%2FSoftWreak&count_bg=%23007DFF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Total+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=khandelwaldev&repo=SoftWreak&label=Total%20Views&style=for-the-badge&color=%23457BFF&contentType=svg)
 
 An Open-Source content search and watch website.
 
