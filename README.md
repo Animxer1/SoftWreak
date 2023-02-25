@@ -6,8 +6,6 @@ An Open-Source content search and watch website.
 
 ### Don't forget to :star: the repo
 
-[![GitHub stars](https://img.shields.io/github/stars/khandelwaldev/SoftWreak.svg?style=social&label=Star)](https://github.com//khandelwaldev/SoftWreak) ![GitHub forks](https://img.shields.io/github/forks/khandelwaldev/SoftWreak.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/Softwreak.svg?style=social&label=Follow)
-
 ## Features
 
 - Watch movies and tv shows for free  
