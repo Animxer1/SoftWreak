@@ -15,7 +15,7 @@
   <title>softwreak</title>
   <link rel="preload stylesheet" href="css/style.min.css" as="style">
   <link rel="preload stylesheet" href="css/center-atom.min.css" as="style">
-  <script async src="js/jquery.js"></script>
+  <script async src="jquery.js"></script>
   <!-- Google tag (gtag.js) -->
   <script defer src="https://www.googletagmanager.com/gtag/js?id=G-THTQ9GZQ0J">
     window.dataLayer = window.dataLayer || [];
@@ -27,7 +27,7 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', function() {
-        navigator.serviceWorker.register('js/sw.js').then(function(registration) {
+        navigator.serviceWorker.register('sw.js').then(function(registration) {
           console.log('Service worker registered: ', registration.scope);
         }).catch(function(error) {
           console.log('Service worker registration failed: ', error);
