@@ -47,10 +47,6 @@ Use of this software under any "non-free" license is NOT permitted.
 
 See the [GNU General Public License](https://github.com/khandelwaldev/SoftWreak/blob/main/LICENSE) for more details.
 
-## Contribute
-
-Contributions are welcome. Please read our [contributing guidelines](https://github.com/khandelwaldev/Softwreak/blob/main/CONTRIBUTING.md) before contributing.
-
 ## Facing any Issue?
 
 Have a look at some [common Issues](https://github.com/khandelwaldev/SoftWreak/wiki/Common-Issues) that you might face. If your problem is not there, feel free to open an Issue :)
