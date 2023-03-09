@@ -22,18 +22,6 @@ An Open-Source content search and watch website.
 and much more...
 Check it yourself :)
 
-## License
-
-```
-Copyright © 2023 Dev Khandelwal
-
-Softwreak is a free software licensed under GPL v3.0
-It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-```
-
-See the [GNU General Public License](https://github.com/khandelwaldev/SoftWreak/blob/main/LICENSE) for more details.
-
 ## Facing any Issue?
 
 Have a look at some [common Issues](https://github.com/khandelwaldev/SoftWreak/wiki/Common-Issues) that you might face. If your problem is not there, feel free to open an Issue :)
